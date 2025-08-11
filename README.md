@@ -1,8 +1,12 @@
-<h3 align="center">I am a Business Economics student</h3>
+<h3 align="center">Hello World!</h3>
 
-- 🔭 I’m currently working on **Relational Database**
+- 🔭 I’m currently working on **Relational Databases**
 
 - 🌱 I’m currently learning **Python for Finance**
+
+- 📚 I'am currently studying **Business Economics**
+
+- 📜 Ask me about **Data analysis and visualisation**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
