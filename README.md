@@ -6,7 +6,7 @@
 
 - 📚 I'am currently studying **Economics and Math**
 
-- 📜 Experimenting library **yFinance and Pandas**
+- 📜 Experimenting library **Socket and Pandas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
