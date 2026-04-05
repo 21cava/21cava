@@ -1,10 +1,10 @@
 <h3 align="center">Hello World!</h3>
 
-- 🔭 I’m currently working on **Market analysis with Python**
+- 🔭 I’m currently working on **Modeling and Simulation**
 
-- 🌱 I’m currently learning **Python for Finance**
+- 🌱 I’m currently learning **C++**
 
-- 📚 I'am currently studying **Business Economics**
+- 📚 I'am currently studying **Economics and Math**
 
 - 📜 Experimenting library **yFinance and Pandas**
 
