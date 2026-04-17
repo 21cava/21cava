@@ -1,8 +1,8 @@
 <h3 align="center">Hello World!</h3>
 
-- 🔭 I’m currently working on **Modeling and Simulation**
+- 🔭 I’m currently working on **Optimization models**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Linux's tools**
 
 - 📚 I'am currently studying **Economics and Math**
 
