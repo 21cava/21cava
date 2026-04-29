@@ -1,7 +1,5 @@
 <h3 align="center">Hello World!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=21cava" alt="21cava" /></a> </p>
-
 - 🛡️ Building **AI Framework and Electronic projects**
 
 - 📈 Focus: **Cybersecurity, Data analysis and Quant**
