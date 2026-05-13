@@ -1,10 +1,10 @@
 <h3 align="center">Hello World!</h3>
 
-- 🛡️ Building **AI Framework and Electronic projects**
+- 🛡️ Penteser 
 
-- 📈 Focus: **Cybersecurity, Data analysis and Quant**
+- 📈 Focus in Cybersecurity, Data analysis and Quant
 
-- 📚 Econ student & Penteser **(kinda)**
+- 📚 Developing Framework and Automation
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
