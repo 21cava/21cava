@@ -1,8 +1,8 @@
 <h3 align="center">meep meep</h3>
 
-- 🛡️ Penteser 
+- 🛡️ Pentester 
 
-- 📈 Focus in Cybersecurity, Data analysis and Quant
+- 📈 Focus in Cybersecurity, Simulation and ML
 
 - 📚 Developing Framework and Automation
 
