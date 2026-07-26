@@ -1,10 +1,10 @@
 <h3 align="center">meep meep</h3>
 
-- 🛡️ Pentester 
+- 🛡️ Cybersecurity
 
-- 📈 Focus in Cybersecurity, Simulation and ML
+- 📈 Focus in Data Analysis and Penetration testing
 
-- 📚 Developing Framework and Automation
+- 📚 Developing AI Framework 
 
 
 <h3 align="left">Languages and Tools:</h3>
