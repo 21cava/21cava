@@ -1,6 +1,8 @@
 
 <h3 align="center">&&</h3>
 
+- 💰 **CS and Math**
+
 - 🛡️ Building **ML and Simulation**
 
 - 📈 Focus on **Computational Statistics**
