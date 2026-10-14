@@ -3,9 +3,9 @@
 
 - 💰 **CS and Math**
 
-- 🛡️ Building **ML and Simulation**
+- 🛡️ Learning **Python library**
 
-- 📈 Focus on **Computational Statistics**
+- 📈 Focus on **Data Science**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
